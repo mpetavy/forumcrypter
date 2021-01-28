@@ -27,9 +27,9 @@ func init() {
 }
 
 func main() {
-	flag.Parse();
+	flag.Parse()
 	if len(os.Args) == 1 {
-		flag.Usage();
+		flag.Usage()
 		os.Exit(0)
 	}
 
