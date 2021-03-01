@@ -1,3 +1,3 @@
 module github.com/mpetavy/forumcrypter
 
-go 1.12
+go 1.16
